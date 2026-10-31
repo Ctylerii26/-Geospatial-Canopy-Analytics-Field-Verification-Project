@@ -1,0 +1,2 @@
+# -Geospatial-Canopy-Analytics-Field-Verification-Project
+Project Overview This repository bridges the gap between field-collected ecological data and cloud-based satellite data pipelines. Using **Python** and open-source **GIS software**, this workflow extracts, cleans, and models vegetation health indices across local forest canopy zones in Northwest Arkansas to create a reproducible framework wildfire
